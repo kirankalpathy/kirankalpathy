@@ -4,9 +4,6 @@ I'm Kiran Kalpathy! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer & a consultant from [![location](https://custom-icon-badges.demolab.com/badge/Bengaluru-IN-purple?style=plastic&logo=location&logoColor=white)](#) working at [![SAP](https://img.shields.io/badge/-SAP-003D5B?style=plastic&logo=sap&logoColor=white)](https://www.sap.com/india/), who loves to learn, build, and share projects.
 
-[19]: 
-
-
 ### 🛠️ Technologies & Tools:
 - **Languages**: Python, JavaScript, ABAP
 - **Databases**: SQLite, SAP HANA, Microsoft SQL Server,
