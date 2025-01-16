@@ -1,6 +1,10 @@
-# Hi there, I'm Kiran Kalpathy! 👋
+# Hi there, 
 
-Welcome to my GitHub profile! I'm a passionate developer & a consultant working at [SAP][https://www.sap.com], who loves to learn, build, and share projects.
+I'm Kiran Kalpathy! 👋
+
+Welcome to my GitHub profile! I'm a passionate developer & a consultant from [![location][19]][19] working at [![SAP](https://img.shields.io/badge/-SAP-003D5B?style=plastic&logo=sap&logoColor=white)](https://www.sap.com/india/), who loves to learn, build, and share projects.
+
+[19]: https://custom-icon-badges.demolab.com/badge/Bengaluru-IN-purple?style=plastic&logo=location&logoColor=white
 
 ---
 
@@ -16,7 +20,9 @@ Welcome to my GitHub profile! I'm a passionate developer & a consultant working 
 ---
 
 ### 📣 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirankalpathy)
+[![LinkedIn]](https://linkedin.com/in/kirankalpathy)
+
+[LinkedIn]: https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge
 
 <!--
 ---
@@ -29,6 +35,8 @@ Welcome to my GitHub profile! I'm a passionate developer & a consultant working 
 -->
 
 Thanks for visiting my profile, and feel free to reach out to me if you'd like to collaborate or chat about technology! 😊
+
+
 
 
 <!--
